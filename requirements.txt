@@ -1,0 +1,7 @@
+python-telegram-bot==21.3
+yt-dlp
+google-generativeai
+edge-tts
+moviepy==1.0.3
+Pillow
+nest_asyncio
